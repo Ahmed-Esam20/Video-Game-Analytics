@@ -7,10 +7,10 @@ An end-to-end Business Intelligence platform that analyzes video game sales, pla
 ## 📊 Live Demo
 
 🌐 Website:
-[https://YOUR-WEBSITE](https://video-game-analysis-web-p73h.vercel.app/)
+[https://video game analysis-WEBSITE](https://video-game-analysis-web-p73h.vercel.app/)
 
 📈 Power BI Dashboard:
-[https://YOUR-POWERBI](https://app.powerbi.com/view?r=eyJrIjoiMWUzOTNjMDgtNDhjOS00MDljLTgyNTgtZGQ0ZjliZGE5ZTM1IiwidCI6ImQ1YjAyZWU0LTNiYjItNDBlZS1iMTJhLWEyZGM5NzVjMWVhZSJ9)
+[https://POWERBI](https://app.powerbi.com/view?r=eyJrIjoiMWUzOTNjMDgtNDhjOS00MDljLTgyNTgtZGQ0ZjliZGE5ZTM1IiwidCI6ImQ1YjAyZWU0LTNiYjItNDBlZS1iMTJhLWEyZGM5NzVjMWVhZSJ9)
 
 
 ---
