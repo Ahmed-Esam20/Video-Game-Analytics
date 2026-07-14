@@ -172,7 +172,7 @@ Video-Game-Analytics
 Ahmed Esam
 
 LinkedIn:
-https://linkedin.com/in/.....
+(https://www.linkedin.com/in/ahmed-esam-1802ba202/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJdA%2BIsw7T%2FOmqv%2B0QbydRg%3D%3D)
 
-GitHub:
-https://github.com/Ahmed-Esam20
+Portofolio:
+https://ahmed-esam-portfolio.vercel.app/#
